@@ -1,224 +1,364 @@
-<!-- Visual Banner Header -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Jay Dukare – AI & Embedded Engineer" />
 </p>
 
-<!-- Title & Hero Section -->
-<h1 align="center">⚡ JAY DUKARE ⚡</h1>
+<!-- Title -->
+<h1 align="center">
+  <img src="./assets/avatar.png" width="42" style="vertical-align: middle;" />
+  &nbsp; JAY DUKARE
+</h1>
+
 <p align="center">
-  <strong>Bridging the Gap Between Intelligent Systems (AI) & Edge Computing (IoT/Embedded Systems)</strong>
+  <samp><b>Machine‑Learning Engineer · Embedded Systems Developer · IoT Architect</b></samp>
 </p>
 
-<!-- Custom Typing SVG -->
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Jay5852">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Building+Intelligent+Edge+Systems;Deep+Learning+%26+NLP+Developer;Bare-Metal+STM32+%26+Custom+PCBs;Full+Stack+IoT+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=XGBoost+%7C+SHAP+%7C+Streamlit+%E2%80%93+End-to-End+ML+Pipelines;STM32+Bare-Metal+%7C+KiCad+PCBs+%7C+FreeRTOS;ESP32+%2B+Firebase+%E2%80%93+Cloud-Connected+IoT+Devices;Bridging+AI+and+Edge+Hardware" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 🚨 RECRUITER EXPRESS LANE (Direct CTAs at the very top!) -->
+<!-- Quick Links -->
 <p align="center">
-  <samp>
-    <b>💼 RECRUITER EXPRESS LANE</b>
-    <br />
-    <a href="mailto:jaydukare2003@gmail.com?subject=Opportunity%20at%20[Company_Name]&body=Hi%20Jay,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20chat%20about%20an%20opportunity%20at%20..." target="_blank">
-      <img src="https://img.shields.io/badge/📧_Quick_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jay" />
-    </a>
-    <a href="https://linkedin.com/in/jaydukare" target="_blank">
-      <img src="https://img.shields.io/badge/🤝_LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
-    </a>
-    <a href="tel:+91-8624965858">
-      <img src="https://img.shields.io/badge/📞_Direct_Call-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Call Jay" />
-    </a>
-  </samp>
-</p>
-
----
-
-### 💡 Why Hire Me? (The Pitch)
-
-I am a final-year **Electronics & Telecommunication Engineering** student at **PES Modern College of Engineering, Pune** who specializes in **Physical AI**. 
-
-Most developers build software in a vacuum, and most hardware engineers write firmware without understanding modern AI. **I bridge that divide.** I write register-level bare-metal firmware, design custom multilayer PCBs, and deploy custom Deep Learning pipelines—creating complete, end-to-end intelligent physical devices.
-
----
-
-### 📊 Engineering Analytics & Performance Trophies
-
-<p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://github.com/Jay5852">
-          <img src="https://github-readme-stats.vercel.app/api?username=Jay5852&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-        </a>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://github.com/Jay5852">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay5852&layout=compact&theme=tokyonight&hide=html,css" width="380" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
+  <a href="mailto:jaydukare2003@gmail.com?subject=Opportunity%20for%20Jay%20Dukare&body=Hi%20Jay,%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss%20an%20opportunity.">
+    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/jaydukare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://github.com/Jay5852">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jay5852&theme=radical&no-bg=true&no-frame=true&margin-w=10" width="790" alt="GitHub Trophies" />
+    <img src="https://img.shields.io/badge/GitHub-Jay5852-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>&nbsp;
+  <a href="tel:+918624965858">
+    <img src="https://img.shields.io/badge/📞_Call-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jay5852&style=flat-square&color=00E5FF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jay5852?label=Followers&style=flat-square&color=00E5FF" alt="Followers" />
+</p>
+
+---
+
+## 🧬 About Me
+
+```text
+🎓  Final-year B.E. (Electronics & Telecom) @ PES Modern College of Engineering, Pune
+🤖  ML Engineer  →  XGBoost · SHAP · Scikit-learn · Streamlit · PyTorch · Transformers
+🔌  Embedded Dev →  STM32 bare-metal · ESP32/ESP8266 · KiCad PCB · FreeRTOS · DMA/ISR
+🌐  IoT Architect → Firebase · MQTT · Adafruit IO · Cloud-sync sensor networks
+💡  I bridge the gap between AI algorithms and edge hardware to build intelligent physical devices.
+```
+
+> **Most developers build software in a vacuum. Most hardware engineers write firmware without understanding modern AI.**
+> **I bridge that divide** — writing register-level bare-metal firmware, designing custom multilayer PCBs, *and* deploying production ML pipelines — creating complete, end-to-end intelligent physical systems.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
   <a href="https://github.com/Jay5852">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay5852&theme=tokyonight" width="790" alt="Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jay5852&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117" width="420" alt="Stats" />
+  </a>
+  <a href="https://github.com/Jay5852">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay5852&layout=compact&theme=tokyonight&hide=html,css&border_radius=12&hide_border=true&bg_color=0D1117" width="350" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jay5852">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay5852&theme=tokyonight&hide_border=true&background=0D1117&border_radius=12" width="790" alt="Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jay5852">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jay5852&theme=radical&no-bg=true&no-frame=true&margin-w=10&column=7" width="790" alt="Trophies" />
+  </a>
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <a href="https://github.com/Jay5852">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay5852&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="790" alt="Contribution Graph" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Hardware-Software Skills Matrix
+## 🛠️ Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>🧠 AI & Core Data Science</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <br />
-      <img src="https://img.shields.io/badge/XGBoost-1D242B?style=for-the-badge&logo=xgboost&logoColor=FF8000" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> <br />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> <br />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <h3 align="center">🤖 AI / Machine Learning / Data Science</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <br />
+        <img src="https://img.shields.io/badge/XGBoost-1D242B?style=for-the-badge&logo=xgboost&logoColor=FF8000" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Optuna-3366CC?style=for-the-badge" /> <br />
+        <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <br />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+      </p>
+      <p align="center"><samp>Supervised Learning · NLP · Feature Engineering · Explainable AI (XAI) · Model Deployment</samp></p>
     </td>
     <td valign="top" width="50%">
-      <h4>🔌 Embedded Firmware & Logic</h4>
-      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <br />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <br />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/KiCad-314C5A?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+      <h3 align="center">🔌 Embedded Systems / IoT / Firmware</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-E38100?style=for-the-badge&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <br />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge" /> <br />
+        <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/KiCad-314C5A?style=for-the-badge&logo=kicad&logoColor=white" />
+        <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" /> <br />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+        <img src="https://img.shields.io/badge/Adafruit_IO-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
+      </p>
+      <p align="center"><samp>Bare-Metal Drivers · DMA/ISR · UART/I2C/SPI · PCB Design · Signal Integrity · Power Supply</samp></p>
     </td>
   </tr>
 </table>
 
+<details>
+<summary>🧰 <b>Tools & Platforms</b> (click to expand)</summary>
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keil_MDK-2C8EBB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF5A5F?style=for-the-badge" />
+</p>
+</details>
+
 ---
 
-### 🚀 High-Impact Showcased Work
+## 🚀 Flagship Projects
 
-These projects represent complete engineering lifecycles—from physical hardware schematics to live neural model inference.
+### 🧠 Machine Learning & Data Science
 
 <table width="100%">
-  <!-- Project 1 -->
   <tr>
-    <td>
-      <h3>📟 IoT Biometric System (Attendify)</h3>
-      <p><i>A complete biometric hardware terminal and cloud synchronization environment.</i></p>
+    <td width="50%">
+      <h4>📈 Customer Churn Prediction Engine</h4>
+      <p><i>End-to-end ML pipeline with explainability dashboard</i></p>
       <ul>
-        <li>⚡ <b>Hardware Design</b>: Engineered a high-efficiency hardware core utilizing ESP32 microcontrollers, fingerprint scanning sensor (R307), and a custom-routed rechargeable battery module.</li>
-        <li>☁️ <b>Real-Time Sync</b>: Syncs biometric prints instantly to a central database with automated CSV export capabilities and immediate system email notifications.</li>
-        <li>📈 <b>Direct ROI</b>: Achieved a <b>80% reduction in manual data processing and attendance logging overhead</b>.</li>
+        <li>🎯 <b>87%+ F1 Score</b> using XGBoost with Optuna HPO</li>
+        <li>🔍 SHAP integration for full model transparency</li>
+        <li>🚀 Live Streamlit app for real-time predictions</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/ESP32-E38100?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/IoT-000000?style=flat-square" alt="IoT" />
+        <img src="https://img.shields.io/badge/XGBoost-1D242B?style=flat-square&logo=xgboost&logoColor=FF8000" />
+        <img src="https://img.shields.io/badge/SHAP-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Optuna-3366CC?style=flat-square" />
       </p>
-      <a href="https://github.com/Jay5852/attendance-system"><b>[Code Repository 💻]</b></a>
+      <a href="https://github.com/Jay5852/customer-churn-prediction"><b>📂 View Repository →</b></a>
+    </td>
+    <td width="50%">
+      <h4>🤖 NLP Sentiment Classifier (DistilBERT)</h4>
+      <p><i>Fine-tuned transformer deployed on HuggingFace Spaces</i></p>
+      <ul>
+        <li>🎯 <b>92%+ Binary Accuracy</b> on movie review corpus</li>
+        <li>🚀 Live Gradio app on HuggingFace Spaces</li>
+        <li>📦 Model weights & architecture fully hosted</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Gradio-FF5A5F?style=flat-square" />
+      </p>
+      <a href="https://github.com/Jay5852/movie-sentiment-analyzer"><b>📂 View Repository →</b></a>
     </td>
   </tr>
-  
-  <!-- Project 2 -->
   <tr>
-    <td>
-      <h3>⚡ IoT Underground Cable Fault Detector</h3>
-      <p><i>Resistive grid sensor platform to locate underground cable breaks automatically.</i></p>
+    <td width="50%">
+      <h4>🏭 Predictive Maintenance for Manufacturing</h4>
+      <p><i>Industrial sensor telemetry → failure prediction & RUL</i></p>
       <ul>
-        <li>🎯 <b>Spatial Precision</b>: Measures physical wire resistance and voltage drop profiles to automatically isolate the exact fault coordinate with a <b>±1 km precision window</b>.</li>
-        <li>📡 <b>Connectivity</b>: Designed an ESP8266 Wi-Fi bridging terminal to push live geographic alarms directly to an active **Adafruit IO** dashboard.</li>
-        <li>📈 <b>Direct ROI</b>: <b>Slashed hardware diagnostic and fault isolation time by 60%</b>.</li>
+        <li>📊 Analyzes temperature, vibration, rotational speed</li>
+        <li>⚙️ Classification & regression for downtime prevention</li>
+        <li>🏗️ Bridges AI and industrial automation</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-        <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266" />
-        <img src="https://img.shields.io/badge/Adafruit%20IO-FFFFFF?style=flat-square&logo=adafruit&logoColor=black" alt="Adafruit" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Feature_Eng-555?style=flat-square" />
       </p>
-      <a href="https://github.com/Jay5852/underground-cable-fault-detection"><b>[Code Repository 💻]</b></a>
+      <a href="https://github.com/Jay5852/predictive-maintenance"><b>📂 View Repository →</b></a>
     </td>
-  </tr>
-
-  <!-- Project 3 -->
-  <tr>
-    <td>
-      <h3>🤖 NLP Sentiment Classifier (DistilBERT)</h3>
-      <p><i>Fine-tuned Transformer language model designed to extract emotional sentiment at scale.</i></p>
+    <td width="50%">
+      <h4>🎬 Movie Recommender System</h4>
+      <p><i>Collaborative filtering on dense user-item matrices</i></p>
       <ul>
-        <li>📈 <b>Model Performance</b>: Fine-tuned a **DistilBERT** neural pipeline on massive text corpuses to yield a **92%+ binary accuracy score**.</li>
-        <li>🚀 <b>Production Ready</b>: Package weights and model architectures are hosted and fully functional as an interactive **Gradio app** live on **HuggingFace Spaces**.</li>
+        <li>🔄 Matrix factorization for personalized suggestions</li>
+        <li>⚡ Optimized Pandas/NumPy data workflows</li>
+        <li>📈 Historical behavior-based recommendation</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-        <img src="https://img.shields.io/badge/Gradio-FF5A5F?style=flat-square" alt="Gradio" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Collab_Filtering-555?style=flat-square" />
       </p>
-      <a href="https://github.com/Jay5852/movie-sentiment-analyzer"><b>[Code Repository 💻]</b></a>
-    </td>
-  </tr>
-
-  <!-- Project 4 -->
-  <tr>
-    <td>
-      <h3>📉 XGBoost Classifier & SHAP Dashboard</h3>
-      <p><i>High-performance classifier targeting business turnover with explainable AI metrics.</i></p>
-      <ul>
-        <li>📊 <b>Predictive Depth</b>: Optimized XGBoost pipelines using **Optuna** hyperparameter search algorithms to secure a **87%+ F1 classification score**.</li>
-        <li>🔍 <b>Explainable AI (XAI)</b>: Integrated **SHAP** values to make predictions fully explainable and auditable, visualized in a live, interactive **Streamlit** client.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-1D242B?style=flat-square&logo=xgboost&logoColor=FF8000" alt="XGBoost" />
-        <img src="https://img.shields.io/badge/SHAP-000000?style=flat-square" alt="SHAP" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      </p>
-      <a href="https://github.com/Jay5852/customer-churn-prediction"><b>[Code Repository 💻]</b></a>
+      <a href="https://github.com/Jay5852/movie-recommender"><b>📂 View Repository →</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏫 Academic Foundation & Background
+### 🔌 Embedded Systems & IoT
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h4>🔬 STM32 Custom Board & Bare-Metal Drivers</h4>
+      <p><i>Production-ready PCB with register-level firmware</i></p>
+      <ul>
+        <li>🎯 2-layer PCB for STM32F446RETx in KiCad</li>
+        <li>⚡ USB Micro-B, LD1117S33 LDO, 8 MHz XTAL, SWD debug</li>
+        <li>🔧 Bare-metal UART & ADC via DMA/ISR — <b>zero HAL</b></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/KiCad-314C5A?style=flat-square&logo=kicad&logoColor=white" />
+      </p>
+      <a href="https://github.com/Jay5852/stm32-custom-board"><b>📂 View Repository →</b></a>
+    </td>
+    <td width="50%">
+      <h4>📟 Attendify – IoT Biometric Attendance</h4>
+      <p><i>ESP32 + fingerprint sensor + Firebase cloud sync</i></p>
+      <ul>
+        <li>🔐 R307 fingerprint sensor with offline-first architecture</li>
+        <li>☁️ Real-time Firebase sync + automated CSV reports</li>
+        <li>📈 <b>80% reduction</b> in manual attendance time</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-E38100?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <a href="https://github.com/Jay5852/attendance-system"><b>📂 View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>⚡ Underground Cable Fault Detector</h4>
+      <p><i>Resistive sensing with IoT dashboard alerts</i></p>
+      <ul>
+        <li>🎯 3-phase fault detection with <b>±1 km precision</b></li>
+        <li>📡 ESP8266 Wi-Fi bridge → Adafruit IO dashboard</li>
+        <li>📈 <b>60% faster</b> fault isolation time</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/Adafruit_IO-000?style=flat-square&logo=adafruit&logoColor=white" />
+      </p>
+      <a href="https://github.com/Jay5852/underground-cable-fault-detection"><b>📂 View Repository →</b></a>
+    </td>
+    <td width="50%">
+      <h4>🚪 Fingerprint Smart Door Lock</h4>
+      <p><i>Biometric authentication with solenoid control</i></p>
+      <ul>
+        <li>🔐 Fingerprint module + 12V solenoid lock</li>
+        <li>📟 I2C LCD for real-time status display</li>
+        <li>🔒 Secure access control system</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/I2C-555?style=flat-square" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      </p>
+      <a href="https://github.com/Jay5852/smart-door-lock"><b>📂 View Repository →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤖 Bonus: AI Assistant
+
+<table width="100%">
+  <tr>
+    <td>
+      <h4>🗣️ Jarvis – AI Virtual Assistant</h4>
+      <p><i>Voice-powered assistant with Google Gemini AI integration</i></p>
+      <ul>
+        <li>🎙️ SpeechRecognition + gTTS for voice I/O</li>
+        <li>🧠 Context-aware responses via Google Gemini AI</li>
+        <li>⚡ <b>70% faster</b> task completion (browsing, music, data retrieval)</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/gTTS-34A853?style=flat-square" />
+      </p>
+      <a href="https://github.com/Jay5852/jarvis-ai"><b>📂 View Repository →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education & Credentials
 
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>🎓 Education & Milestones</h4>
+      <h4>📚 Education</h4>
       <ul>
         <li>
           <b>P.E.S. Modern College of Engineering, Pune</b><br />
-          <samp>Bachelor of Engineering (ENTC) | 2023 - Present</samp><br />
-          👉 SGPA: <b>8.26 / 10.00</b>
+          <samp>B.E. in Electronics & Telecommunication | 2023 – Present</samp><br />
+          📊 SGPA: <b>8.26 / 10.00</b>
         </li>
         <li>
           <b>Government Polytechnic, Pune</b><br />
-          <samp>Diploma in ENTC Engineering | 2020 - 2023</samp><br />
-          👉 Grade: <b>84.39%</b>
+          <samp>Diploma in ENTC | 2020 – 2023</samp><br />
+          📊 Score: <b>84.39%</b>
+        </li>
+        <li>
+          <b>V.S. Satav High School, Wagholi</b><br />
+          <samp>SSC Board | 2020</samp><br />
+          📊 Score: <b>91.20%</b>
         </li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>💼 Internships & Leadership</h4>
+      <h4>💼 Experience & Leadership</h4>
       <ul>
         <li>
-          <b>Pretech Automation Pvt. Ltd.</b><br />
-          <samp>Industrial Automation Intern (PLC/Wiring/Testing)</samp>
+          <b>Industrial Automation Intern</b><br />
+          <samp>Pretech Automation Pvt. Ltd., Pune | Jul–Sep 2022</samp><br />
+          🔧 PLC panel wiring, testing & validation of 5+ industrial systems
         </li>
         <li>
-          <b>Head Organizer, IoT Hackathon 2023-24</b><br />
-          <samp>Mpulse Xtronica (PESMCOE)</samp><br />
-          👉 Coordinated execution and logistics for <b>50+ active participants</b>.
+          <b>🏆 Head Organizer, IoT Hackathon 2023‑24</b><br />
+          <samp>Mpulse Xtronica, PESMCOE</samp><br />
+          👥 Led planning & execution for <b>50+ participants</b>
+        </li>
+        <li>
+          <b>🥇 Finalist – CircuitVista 2K25</b><br />
+          <samp>Hardware Design Competition</samp>
         </li>
       </ul>
     </td>
@@ -227,28 +367,36 @@ These projects represent complete engineering lifecycles—from physical hardwar
 
 ---
 
-### 📬 Let's Start a Conversation!
-
-Are you looking for a highly proactive, multi-disciplinary engineer who can write performant bare-metal firmware, design custom hardware, and train predictive AI models? Let's build something extraordinary together.
+## 📬 Let's Build Something Extraordinary
 
 <p align="center">
-  <table align="center" style="border: 1px solid #30363d; border-radius: 6px;">
+  <samp>
+    Looking for a <b>multidisciplinary engineer</b> who can write bare-metal firmware,<br />
+    design custom PCBs, <i>and</i> deploy production ML models?<br />
+    <b>Let's connect.</b>
+  </samp>
+</p>
+
+<p align="center">
+  <table align="center" style="border: 1px solid #30363d; border-radius: 8px;">
     <tr>
-      <td align="left" style="padding: 15px;">
+      <td align="center" style="padding: 20px;">
         📍 <b>Location:</b> Pune, Maharashtra, India<br />
-        📧 <b>Direct Email:</b> <a href="mailto:jaydukare2003@gmail.com">jaydukare2003@gmail.com</a><br />
+        📧 <b>Email:</b> <a href="mailto:jaydukare2003@gmail.com">jaydukare2003@gmail.com</a><br />
         🤝 <b>LinkedIn:</b> <a href="https://linkedin.com/in/jaydukare" target="_blank">linkedin.com/in/jaydukare</a><br />
-        📱 <b>Direct Phone:</b> <a href="tel:+918624965858">+91 8624965858</a><br />
-        ⚡ <b>Availablity:</b> Ready for Internships & Entry-Level Engineering Roles!
+        📱 <b>Phone:</b> <a href="tel:+918624965858">+91 8624965858</a><br />
+        ⚡ <b>Status:</b> <code>Open to Internships & Full-Time Roles</code>
       </td>
     </tr>
   </table>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:FF2D95&height=80&section=footer" width="100%" />
 </p>
 
-<p align="center" style="font-size: 11px; color: #888;">
-  Optimized with ❤️ for Technical Recruiters • Designed by Antigravity AI
+<p align="center">
+  <sub>🔥 Crafted with precision for Technical Recruiters & Engineering Leaders</sub>
 </p>
