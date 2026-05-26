@@ -1,0 +1,41 @@
+JAY DUKARE
+Pune, Maharashtra, India +91-8624965858
+jaydukare2003@gmail.com linkedin.com/in/jaydukare github.com/Jay5852
+PROFESSIONAL SUMMARY
+Final-year Electronics and Telecommunication Engineering student with practical experience in IoT and
+Embedded Systems . Currently exploring Machine Learning and Python libraries. Seeking an entry-level or
+internship role to apply skills in real-world technology projects and contribute to impactful innovations.
+SKILLS
+Programming Languages: Python, SQL, C++, Embedded C
+Tools and Platforms: JupyterLab, MySQL, Git, GitHub, Adafruit IO, Arduino IDE
+Learning: Data Structures and Algorithms (C++), Machine Learning, NumPy, Pandas, Matplotlib
+EDUCATION
+P.E.S. Modern College of Engineering , Pune Aug 2023 – Present
+Bachelor of Engineering in Electronics and Telecommunication Engineering (SGPA: 8.26)
+Government Polytechnic, Pune Jul 2020 – Jul 2023
+Diploma in Electronics and Telecommunication Engineering (84.39%)
+V.S. Satav High School , Wagholi Mar 2020
+SSC Board (91.20%)
+PROJECTS
+•Attendify – IoT-Based Biometric Attendance System (Aug 2025 - Present): Built an IoT biometric
+attendance device using ESP32 ,R307 sensor , and a rechargeable battery. Records time/date, syncs at-
+tendance data in real time, and provides a teacher dashboard with email and Excel features. Achieved 80%
+reduction in manual attendance time.
+•Jarvis AI Virtual Assistant (2025): Developed a Python-based voice assistant using SpeechRecognition ,
+gTTS , and Google Gemini AI . Enabled context-aware voice responses and task automation (e.g., browsing,
+music playback, data retrieval), improving task completion speed by 70% . Link
+•IoT Cable Fault Detection (2025): Designed an underground cable fault detection system using Arduino
+UNO ,ESP8266 , and Adafruit IO . Achieved ±1 km accuracy and reduced fault isolation time by 60% .
+Link
+•Smart Door Lock (2024): Created an IoT-based door lock with ESP32 , camera module, two-way audio,
+and mobile app control for 24/7 remote access.
+INTERNSHIPS
+Industrial Automation Intern Jul 2022 – Sept 2022
+Pretech Automation Pvt. Ltd., Pune
+Supported PLC wiring, panel assembly, and testing processes in industrial automation systems.
+ACCOMPLISHMENTS AND EXTRACURRICULAR ACTIVITIES
+•Head, IoT Hackathon 2023-24 – Mpulse Xtronica, PESMCOE. Led event planning, logistics, and evaluation
+for 50+ participants.
+•Finalist – CircuitVista 2K25 (Project Competition)
+•Participant – IoT Hackathon 2023
+•Participant – Soft Skills Program by Cognitive Exchange

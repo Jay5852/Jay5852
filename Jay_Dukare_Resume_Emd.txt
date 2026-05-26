@@ -1,0 +1,44 @@
+Jay Dukare
+Pune, Maharashtra|+91-8624965858|jaydukare2003@gmail.com|LinkedIn|GitHub|Portfolio
+Professional Summary
+Final-year Electronics and Telecommunication Engineering student specializing inembedded systems and
+hardware design. Proven hands-on expertise inSTM32 bare-metal development,ESP32,PCB design
+(KiCad), andreal-time firmware. Skilled incircuit debugging,power supply design, and
+hardware–software integration. Seeking anEmbedded Systems EngineerorFirmware Engineerrole.
+Technical Skills
+Hardware & Power:PCB Design (KiCad), LDO Design, Signal Integrity Analysis, Oscilloscope Debugging, Multimeter
+Testing, Soldering
+Core Electronics:Analog & Digital Circuit Design, Sensors & Actuators, Signal Processing, Control Systems
+Embedded Systems:STM32 (Bare-metal), ESP32, ESP8266, Embedded C/C++, FreeRTOS (basics), GPIO, Timers,
+Interrupts, DMA
+Communication Protocols:UART, I2C, SPI, MQTT, WiFi/BLE, RS-485
+Programming & Tools:C/C++, Python, STM32CubeIDE, Keil MDK, PlatformIO, Arduino IDE, Git/GitHub
+Education
+P.E.S. Modern College of Engineering, PuneAug 2023 – Present
+Bachelor of Engineering in Electronics and Telecommunication Engineering SGPA: 8.26
+Government Polytechnic, PuneJul 2020 – Jul 2023
+Diploma in Electronics and Telecommunication Engineering 84.39%
+Projects
+STM32 Custom Board Design & Bare-Metal Drivers|C, KiCad, STM32CubeIDE|GitHub2026
+–Engineered a production-ready 2-layer PCB for STM32F446RETx using KiCad, integrating USB Micro-B input,
+LD1117S33 LDO, 8 MHz crystal oscillator, and SWD debug interface
+–Implemented bare-metal UART and ADC drivers leveraging DMA and interrupts – no HAL library – for efficient data
+acquisition and fault handling
+Attendify – IoT Biometric Attendance System|ESP32, C++, Firebase|GitHub2026
+–Developed an ESP32-based biometric attendance device using R307 fingerprint sensor with Firebase cloud sync and
+offline-first architecture
+–Processed 100+ student entries, reducing manual attendance effort by 80%; wrote Python scripts for automated CSV
+report generation
+Underground Cable Fault Detection System|Arduino, C++, Analog Design|GitHub2025
+–Designed a resistance-based fault detection system identifying 3-phase cable faults with up to 1 km location precision
+and under 5% error margin
+Fingerprint-Based Smart Door Lock System|Arduino, I2C, C++2023
+–Built a fingerprint authentication system controlling a 12V solenoid lock with I2C LCD for real-time status monitoring
+and secure access control
+Experience & Achievements
+Student InternJul 2022 – Sep 2022
+Pretech Automation Pvt. Ltd., Pune
+–Wired and assembled 3 PLC control panels; tested and validated 5+ industrial automation systems
+–Gained hands-on exposure to relay logic, panel wiring standards, and system commissioning
+Head, IoT Hackathon 2023–24|Led a team-level technical event at college level
+Finalist, CircuitVista 2K25|Hardware design competition

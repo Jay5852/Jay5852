@@ -1,0 +1,51 @@
+Jay Dukare
+Pune, Maharashtra, India|+91-8624965858
+jaydukare2003@gmail.com|[LinkedIn]|[GitHub]|[Portfolio]
+Summary
+Results-driven Machine Learning Engineer with hands-on experience building, interpreting, and deploying predictive models
+using XGBoost and scikit-learn. Proven track record of developing end-to-end ML pipelines, extracting actionable insights
+using SHAP explainability, and deploying live applications via Streamlit. Possesses a strong engineering foundation,
+bridging the gap between intelligent software architectures and edge-hardware integration.
+Education
+P.E.S. Modern College of EngineeringPune, Maharashtra
+Bachelor of Engineering in Electronics and Telecommunication; SGPA: 8.26 Aug 2023 – Present
+Government PolytechnicPune, Maharashtra
+Diploma in Electronics and Telecommunication Engineering; 84.39% Jul 2020 – Jul 2023
+Technical Skills
+Languages: Python, C++, C
+Libraries & Frameworks: Pandas, NumPy, scikit-learn, XGBoost, Matplotlib
+Core ML Concepts: Supervised Learning, Classification, Regression, Feature Engineering, Model Evaluation
+Tools & Deployment: Git, GitHub, Jupyter Notebook, VS Code, Streamlit
+Machine Learning & Engineering Projects
+Customer Churn Prediction Engine|XGBoost, SHAP, Streamlit, Optuna|[GitHub] 2026
+•Engineered a high-performance classification model utilizing the Telco dataset to predict customer attrition,
+achieving an 87%+ F1 score.
+•Executed end-to-end ML pipelines encompassing rigorous data cleaning, feature engineering, and automated
+hyperparameter tuning via Optuna.
+•Integrated SHAP (SHapley Additive exPlanations) to enhance model transparency, identifying contract types as
+the primary churn driver.
+•Deployed a live interactive web application using Streamlit to facilitate real-time single-customer and batch
+predictions.
+Predictive Maintenance for Manufacturing|scikit-learn, Pandas, Feature Engineering|[GitHub] 2026
+•Developed a predictive ML model analyzing industrial sensor telemetry (temperature, rotational speed, vibration)
+to forecast equipment failure and estimate Remaining Useful Life (RUL).
+•Applied classification and regression algorithms to mitigate factory downtime, demonstrating a practical
+intersection between AI and industrial automation.
+Movie Recommender System|Python, Pandas, Collaborative Filtering|[GitHub] 2025
+•Designed a robust recommendation engine leveraging collaborative filtering and matrix factorization techniques to
+suggest content based on historical user behavior.
+•Optimized data processing workflows using Pandas and NumPy to handle dense user-item interaction matrices
+efficiently.
+Experience & Achievements
+Head, IoT Hackathon 2023 – 2024
+Mpulse Xtronica, P.E.S. Modern College of Engineering Pune, Maharashtra
+•Spearheaded a team-level technical event, coordinating cross-functional teams to deliver a successful hardware and
+software hackathon.
+Finalist, CircuitVista 2K25 2025
+Hardware Design Competition Pune, Maharashtra
+•Recognized for technical excellence and innovative embedded systems integration among top competitors.
+Industrial Automation InternJul 2022 – Sep 2022
+Pretech Automation Pvt. Ltd. Pune, Maharashtra
+•Assembled and wired Programmable Logic Controller (PLC) control panels, validating system functionality in
+real-world production environments.
+•Acquired foundational expertise in hardware-software integration for industrial automation workflows.

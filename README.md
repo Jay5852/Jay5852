@@ -1,13 +1,12 @@
-<!-- Hero Banner -->
+<!-- Header Wave Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Jay Dukare – AI & Embedded Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:FF2D95&height=150&section=header&text=JAY%20DUKARE&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35" width="100%" alt="JAY DUKARE" />
 </p>
 
-<!-- Title -->
-<h1 align="center">
-  <img src="./assets/avatar.png" width="42" style="vertical-align: middle;" />
-  &nbsp; JAY DUKARE
-</h1>
+<!-- Avatar and Roles -->
+<p align="center">
+  <img src="./assets/avatar.png" width="90" style="border-radius: 50%;" />
+</p>
 
 <p align="center">
   <samp><b>Machine‑Learning Engineer · Embedded Systems Developer · IoT Architect</b></samp>
@@ -62,10 +61,10 @@
 
 <p align="center">
   <a href="https://github.com/Jay5852">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jay5852&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117" width="420" alt="Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jay5852&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117" width="420" alt="Stats" />
   </a>
   <a href="https://github.com/Jay5852">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay5852&layout=compact&theme=tokyonight&hide=html,css&border_radius=12&hide_border=true&bg_color=0D1117" width="350" alt="Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jay5852&layout=compact&theme=tokyonight&hide=html,css&border_radius=12&hide_border=true&bg_color=0D1117" width="350" alt="Languages" />
   </a>
 </p>
 
@@ -77,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/Jay5852">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jay5852&theme=radical&no-bg=true&no-frame=true&margin-w=10&column=7" width="790" alt="Trophies" />
+    <img src="https://github-profile-trophy-ruby.vercel.app/?username=Jay5852&theme=radical&no-bg=true&no-frame=true&margin-w=10&column=7" width="790" alt="Trophies" />
   </a>
 </p>
 
